@@ -1,4 +1,4 @@
-package com.ammar.mngsoft
+package com.ammar.kmm_mng_soft
 
 import platform.UIKit.UIDevice
 

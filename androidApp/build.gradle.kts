@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ammar.mngsoft.android"
+    namespace = "com.ammar.kmm_mng_soft.android"
     compileSdk = 32
     defaultConfig {
-        applicationId = "com.ammar.mngsoft.android"
-        minSdk = 21
+        applicationId = "com.ammar.kmm_mng_soft.android"
+        minSdk = 23
         targetSdk = 32
         versionCode = 1
         versionName = "1.0"

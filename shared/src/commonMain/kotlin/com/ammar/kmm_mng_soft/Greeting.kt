@@ -1,9 +1,9 @@
-package com.ammar.mngsoft
+package com.ammar.kmm_mng_soft
 
 class Greeting {
     private val platform: Platform = getPlatform()
 
-    fun greet(): String {
+    fun greeting(): String {
         return "Hello, ${platform.name}!"
     }
 }

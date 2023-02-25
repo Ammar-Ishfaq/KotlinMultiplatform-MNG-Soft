@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MngSoft"
+rootProject.name = "KMM-MNG-SOFT"
 include(":androidApp")
 include(":shared")

@@ -47,10 +47,10 @@ kotlin {
 }
 
 android {
-    namespace = "com.ammar.mngsoft"
+    namespace = "com.ammar.kmm_mng_soft"
     compileSdk = 32
     defaultConfig {
-        minSdk = 21
+        minSdk = 23
         targetSdk = 32
     }
 }
